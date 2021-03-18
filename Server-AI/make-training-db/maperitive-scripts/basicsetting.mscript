@@ -1,0 +1,5 @@
+﻿clear-map
+set-setting name=map.decoration.grid value=False
+set-setting name=map.decoration.scale value=False
+set-setting name=map.decoration.attribution value=false
+use-ruleset Schwarzplan.mrules as-alias=schwarzplan

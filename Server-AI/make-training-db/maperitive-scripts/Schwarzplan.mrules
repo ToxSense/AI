@@ -1,0 +1,15 @@
+features
+	areas
+		building : building
+properties
+	map-background-color    : #FFFFFF
+	line-style : none
+rules
+	target : building
+		define
+			fill-color : black
+		draw : fill
+	target : apartments
+		define
+			fill-color : black
+		draw : fill
